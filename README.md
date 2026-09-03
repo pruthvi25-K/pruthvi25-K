@@ -16,6 +16,21 @@ I'm a student passionate about technology, Artificial Intelligence, Machine Lear
 - 🚀 Building projects and learning new technologies
 
 ---
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi25-K&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi25-K" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi25-K&layout=compact" />
+</p>
+
+---
 
 ## 🛠️ Technologies & Tools
 
