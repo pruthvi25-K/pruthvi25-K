@@ -73,7 +73,7 @@ I'm a student passionate about technology, Artificial Intelligence, Machine Lear
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi25-K&theme=github-compact" alt="Pruthviraj's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi25-K" alt="GitHub Contribution Graph" />
 </p>
 
 ---
