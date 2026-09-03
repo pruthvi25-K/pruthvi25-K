@@ -64,11 +64,16 @@ Future projects will include:
 
 ## 🌱 Currently Learning
 
-```pruthvi25-K
 Python → Machine Learning → Deep Learning → AI
 
-📫 Connect With Me
-GitHub: https://github.com/pruthvi25-K
+---
 
-⚡ Fun Fact
-"The best way to learn technology is to build something with it." 🚀
+## 📫 Connect With Me
+
+- GitHub: https://github.com/pruthvi25-K
+
+---
+
+## ⚡ Fun Fact
+
+> "The best way to learn technology is to build something with it." 🚀
