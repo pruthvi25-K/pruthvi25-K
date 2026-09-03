@@ -73,10 +73,8 @@ I'm a student passionate about technology, Artificial Intelligence, Machine Lear
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi25-K" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/pruthvi25-K" alt="GitHub Contribution Graph" />
 </p>
-
----
 
 ## 📚 Learning Roadmap
 
