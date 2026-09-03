@@ -65,15 +65,21 @@ I'm a student passionate about technology, Artificial Intelligence, Machine Lear
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi25-K" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pruthvi25-K&theme=github_dark" alt="GitHub Contribution Graph" />
 </p>
 
----
-
-## 📈 Contribution Graph
+<br>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/pruthvi25-K" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pruthvi25-K&theme=github_dark" alt="Top Languages by Repository" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pruthvi25-K&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi25-K&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 📚 Learning Roadmap
