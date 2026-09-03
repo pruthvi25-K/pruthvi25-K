@@ -1,60 +1,39 @@
 # Hi 👋, I'm Pruthviraj
 
-### 🎓 Aspiring AI & Machine Learning Engineer
+### 🤖 Aspiring AI & Machine Learning Engineer
 
-I'm a student passionate about technology, Artificial Intelligence, Machine Learning, and software development. Currently learning and building projects to improve my programming and problem-solving skills.
+I'm a student passionate about technology, Artificial Intelligence, Machine Learning, and software development. I'm currently learning, building projects, and improving my programming and problem-solving skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Student interested in Artificial Intelligence & Machine Learning
-- 🤖 Currently exploring AI and Machine Learning
-- 🐍 Learning Python
-- 💻 Interested in Software Development
+- 🎓 AIML Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🐍 Currently learning Python
+- 💻 Exploring Software Development
 - 🧠 Improving problem-solving and programming skills
 - 🚀 Building projects and learning new technologies
-
----
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthvi25-K&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi25-K" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi25-K&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Pruthviraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pruthvi25-K)](https://github.com/pruthvi25-K)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Currently Learning
+### 🌱 Currently Learning
 
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Git & GitHub
-- Data Structures & Algorithms
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌿 Git & GitHub
+- 📊 Data Structures & Algorithms
 
-### Future Technologies
+### 🔮 Future Technologies
 
-- Deep Learning
-- Data Science
-- Computer Vision
-- Natural Language Processing
-- Generative AI
+- 🧠 Deep Learning
+- 📊 Data Science
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- ✨ Generative AI
 
 ---
 
@@ -63,38 +42,76 @@ I'm a student passionate about technology, Artificial Intelligence, Machine Lear
 - 🐍 Improve Python programming skills
 - 🤖 Learn Machine Learning fundamentals
 - 💻 Build real-world projects
-- 📚 Learn Data Structures & Algorithms
+- 🧠 Learn Data Structures & Algorithms
 - 🚀 Create an AI/ML project portfolio
-- 🌐 Contribute to open-source projects
+- 🌍 Contribute to open-source projects
 
 ---
 
 ## 📂 Projects
 
-🚧 Currently working on building and uploading projects.
+🚧 Currently building and uploading projects.
 
-Future projects will include:
+### Future Projects Will Include
 
 - 🤖 AI & Machine Learning Projects
 - 📊 Data Analysis Projects
 - 🐍 Python Projects
 - 🌐 Web Development Projects
-- 🧠 Problem Solving Projects
+- 🧠 Problem-Solving Projects
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Analytics
 
-Python → Machine Learning → Deep Learning → AI
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi25-K" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi25-K&theme=github-compact" alt="Pruthviraj's GitHub Activity Graph" />
+</p>
+
+---
+
+## 📚 Learning Roadmap
+
+```text
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+NumPy & Pandas
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Artificial Intelligence
+   ↓
+Generative AI
+```
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/pruthvi25-K
+- 💻 GitHub: https://github.com/pruthvi25-K
 
 ---
 
 ## ⚡ Fun Fact
 
 > "The best way to learn technology is to build something with it." 🚀
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and follow my learning journey. 🚀
